@@ -7,3 +7,12 @@ Bu program, Windows işletim sisteminde yer alan Not Defteri (Notepad) uygulamas
 Temel metin düzenleme işlemlerini gerçekleştirebilir; kullanıcıların metin yazmasına, düzenlemesine ve kaydetmesine olanak tanır.
 
 Kısacası, Microsoft'un Notepad uygulamasında bulunan özellikleri sunarak sade, anlaşılır ve işlevsel bir kullanıcı deneyimi sağlamayı amaçlar.
+
+
+## Görsel 1
+
+
+## Görsel 2
+
+
+## Görsel 3
