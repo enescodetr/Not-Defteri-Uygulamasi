@@ -10,9 +10,8 @@ Kısacası, Microsoft'un Notepad uygulamasında bulunan özellikleri sunarak sad
 
 
 ## Görsel 1
-
+![Proje Fotoğrafı 1](gorseller/Screenshot1.png)
 
 ## Görsel 2
+![Proje Fotoğrafı 1](gorseller/Screenshot2.png)
 
-
-## Görsel 3
